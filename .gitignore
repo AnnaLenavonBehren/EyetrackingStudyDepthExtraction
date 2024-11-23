@@ -70,3 +70,20 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+*.asset
+<<<<<<< HEAD
+*.png
+_TerrainAutoUpgrade/
+ADG_Textures/
+ArchVizPRO Interior Vol.6/
+Flooded_Grounds/
+Forst/
+Grass and FLowers Pack 1/
+HDRPDefaultResources/
+PlantsPackage/
+Terrain/
+Standard Assets/
+=======
+*.png
+>>>>>>> 097088f1ca8ac4f99021ccc14ab548d3a6ab5451
